@@ -15,8 +15,7 @@ The dataset includes structured dialogues featuring various medical scenarios su
 # Installation
 To download and use this dataset:
 Clone the repository
-https://github.com/RadhikaJK254/patient-physician-conversation
-
+(https://github.com/RadhikaJK254/patient-physician-conversation.git)
 
 # Usage
 This dataset can be used for various NLP tasks such as:
